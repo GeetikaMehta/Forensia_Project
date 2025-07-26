@@ -1,8 +1,5 @@
-Here’s your updated `README.md` with a **professional touch** and just the right amount of **emojis** to make it visually engaging without overdoing it:
 
----
-
-## Overview
+## About
 
 **Forensia** is an advanced **AI-powered system** designed to analyze human emotions and behaviors through video surveillance.
 Built for law enforcement and security applications, it detects subtle **facial expressions** and **micro-behaviors** to identify moments of deception, tension, or evasion.
