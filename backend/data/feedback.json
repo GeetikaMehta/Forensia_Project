@@ -1,0 +1,28 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "name": "Geetika Mehta",
+      "email": "geetika@example.com",
+      "feedback": "The emotion detection system is incredibly accurate! It helped us solve a complex case within days.",
+      "rating": 5,
+      "date": "2025-05-15"
+    },
+    {
+      "id": 2,
+      "name": "Jasneet Arora",
+      "email": "jasneet@example.com",
+      "feedback": "Great tool for investigations. The real-time analysis feature is particularly useful.",
+      "rating": 4,
+      "date": "2025-05-14"
+    },
+    {
+      "id": 3,
+      "name": "Kashvi Sharma",
+      "email": "kashvi@example.com",
+      "feedback": "The interface is intuitive and the results are very detailed. Excellent work!",
+      "rating": 5,
+      "date": "2025-05-13"
+    }
+  ]
+} 

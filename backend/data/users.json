@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "xyz@gmail.com",
+            "password": "scrypt:32768:8:1$QO74eDYxrS1bYVQU$27e3c7c84f84bda890aa4dddf5390c4d935aa101b405190f4599550cc8bde2ceddcd990c7ee1139fbfe94025db1a7dc5b6fea6d142bba144387ea8b0d4236521",
+            "created_at": "2025-05-18T06:39:53.808254"
+        },
+        {
+            "id": 2,
+            "email": "abc@gmail.com",
+            "name": "abc ",
+            "password": "scrypt:32768:8:1$pijoydB8aehZz3U9$8f739cf97917fb63eb83344c86cc71de6fd97ed880ec892aaa9d248bc3a6a14abb2beb209e048ea1253f8f5f76bb9d2437be2a592dc76cf0d08b539d52fcd502",
+            "created_at": "2025-05-18T06:45:33.351318"
+        },
+        {
+            "id": 3,
+            "email": "geetika22@gmail.com",
+            "name": "Geetika ",
+            "password": "scrypt:32768:8:1$Y8ug44Utum4fXRrg$3c0ea812fcc957eff60e7ac917dfe703c6138eb3d3a4e4e685875fb5415bcd61470a9aa54b327f7154b3c4d9d6259afb2d5407669e42772977f4f81ffe26392d",
+            "created_at": "2025-05-18T06:49:24.242755"
+        },
+        {
+            "id": 4,
+            "email": "lalit33@gmail.com",
+            "name": "Lalit Mehta",
+            "password": "scrypt:32768:8:1$cx7eJK3STWTGhNhf$8d3620c6b172cf213a3f152f98da4a25951d9fbdcc87ca48422ca9c3e13e8d0a55a0b9c2b0b07f192b07d3411fcf847688ca57c6f78d71cce2727c6721621e18",
+            "created_at": "2025-05-18T07:02:28.060981"
+        },
+        {
+            "id": 5,
+            "email": "jasneet31@gmial.com",
+            "name": "Jasneet Arora",
+            "password": "scrypt:32768:8:1$lgVR87THMcHe7lr8$16b309b512d5c997fded69294b717b03c88a9c62cfa76c0b8d303d7037d14fe8b5e564c0b2f0b6ec843f3bf02c3146c97ec267a36a6a86635f49d5c1abf4a249",
+            "created_at": "2025-05-18T07:38:42.778283"
+        },
+        {
+            "id": 6,
+            "email": "ssss@gmail.com",
+            "name": "sssss",
+            "password": "scrypt:32768:8:1$mNNS9BgYnlOGCYvh$d338414fb8dbc58b7925fc5c18fd9c0724e04ed6ae5a75ab0046bafcfd6140197e73e0063d59c5415ded64a95665ab293b6576ec0634aa217a202c89f5c75b1e",
+            "created_at": "2025-06-09T07:12:36.876454"
+        },
+        {
+            "id": 7,
+            "email": "vik@gmail.com",
+            "name": "vik",
+            "password": "scrypt:32768:8:1$HmEIXRNeyT0GPLrQ$0ec17875cfd7641242b307c5c58850229a6b8d447ce62c4a86ec3a7bd47e3a45c75780010a1a2223d3985f885fa92c5262e097e92613be53a560f7fe1228cbee",
+            "created_at": "2025-06-09T07:20:53.421375"
+        }
+    ]
+}

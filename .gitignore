@@ -1,0 +1,59 @@
+# Python backend ignores
+__pycache__/
+*.py[cod]
+*.so
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+backend/.env
+.env
+.env.*
+!.env.example
+
+# Frontend specific ignores
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build files
+/dist/
+/build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+/coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Temporary files
+.temp/
+.tmp/
+.cache/
+
+# Local files
+*.local
